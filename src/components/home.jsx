@@ -10,14 +10,17 @@ const Home = () => {
       >
         {/* Container */}
         <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
+		    <h2 className="text-4xl sm:text-7xl mt-2 font-bold text-[#ccd6f6]">Hi,<span className="wave">👋</span></h2>
+		
           <h1 className="text-4xl sm:text-7xl mt-2 font-bold text-[#ccd6f6]">
-            Shubham Purkar
+            I am Shubham Purkar
           </h1>
           <h3 className="text-2xl sm:text-5xl mt-1 py-2 font-bold text-[#54b4e7]">
+			
             <Typewriter
               options={{
                 strings: [
-                  `I am a Front End Developer.`
+                  `Front End Developer.`
                 ],
                 autoStart: true,
                 loop: true,
