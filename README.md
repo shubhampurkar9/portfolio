@@ -28,6 +28,4 @@ Why wait? Dive into my portfolio and witness firsthand the magic that React and 
 
 Visit My Portfolio and embark on an unforgettable digital adventure.
 
-https://shubhampurkar9.github.io/portfolio/
-
 Let's create the extraordinary, one pixel at a time. 🎨👾
