@@ -20,7 +20,7 @@ const Work = () => {
                                 Netflix Clone
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://shubhampurkar9.github.io/netflixclone-react">
+                                <a href="https://shubhampurkar-netflix-clone.netlify.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
                                 <a href="https://github.com/shubhampurkar9/netflixclone-react">
@@ -52,7 +52,7 @@ const Work = () => {
                                 Personal Portfolio
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://shubhampurkar9.github.io/portfolio/">
+                                <a href="https://shubhampurkar-portfolio.netlify.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
                                 <a href="https://github.com/shubhampurkar9/portfolio/tree/master">
