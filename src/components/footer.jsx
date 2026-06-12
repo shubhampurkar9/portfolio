@@ -31,7 +31,8 @@ const AppFooter = () => {
             {socialLinks.map((link) => (
               <a
                 href={link.url}
-                target="__blank"
+                target="_blank"
+                rel="noopener noreferrer"
                 key={link.id}
                 className="text-[#070f1c] hover:text-[#3d3fe1] hover:scale-110 cursor-pointer rounded-xl bg-gray-50 hover:bg-gray-100 shadow-lg hover:shadow-indigo-500/25 p-4 duration-300"
               >
@@ -45,16 +46,18 @@ const AppFooter = () => {
           <div className="text-lg text-[#dee2e8]">
             &copy; {new Date().getFullYear()}
             <a
-              href="https://github.com/realstoman/react-tailwindcss-portfolio"
-              target="__blank"
+              href="https://github.com/shubhampurkar9/portfolio"
+              target="_blank"
+              rel="noopener noreferrer"
               className="hover:underline hover:text-indigo-600 ml-1 duration-500"
             >
               Portfolio
             </a>
             .
             <a
-              href="https://stoman.me"
-              target="__blank"
+              href="https://www.linkedin.com/in/shubham-purkar/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-secondary-dark font-medium hover:underline hover:text-indigo-600 ml-1 duration-500"
             >
               Shubham Purkar
